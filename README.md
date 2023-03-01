@@ -4,7 +4,10 @@
 
 ## Data Set
 
-## Group Roles
+## Group Roles :
+
+Exploratory Data Analysis and preparation - Hima Surisetti
+
 
 ## Machine Learning Model 
 
