@@ -8,6 +8,7 @@
 
 Exploratory Data Analysis and preparation - Hima Surisetti
 
+Database Design and maintenance - Parna Kundu
 
 ## Machine Learning Model 
 
