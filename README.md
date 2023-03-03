@@ -6,9 +6,9 @@
 
 ## Group Roles :
 
-Exploratory Data Analysis and preparation - Hima Surisetti
-
-Database Design and maintenance - Parna Kundu
+- Database Design and Maintenance - Parna Kundu
+- Exploratory Data Analysis and Preparation - Hima Surisetti
+- Machine Learning Model & GitHub Repo - Shefali Patel
 
 ## Machine Learning Model 
 
