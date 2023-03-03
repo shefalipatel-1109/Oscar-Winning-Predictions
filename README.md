@@ -9,7 +9,7 @@
 - Database Design and Maintenance - Parna Kundu
 - Exploratory Data Analysis and Preparation - Hima Surisetti
 - Machine Learning Model & GitHub Repo - Shefali Patel
-
+- Visualization and Dashboard Designing - Priyanka Patel
 ## Machine Learning Model 
 
 ## Technology Overview
