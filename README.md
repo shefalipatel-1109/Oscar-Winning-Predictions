@@ -14,11 +14,11 @@
 ## List of Questions to be Analysed 
 
 - What features have more significant impact on predicting Oscar winners ?
-- Can we predict which movie will on Oscar award based on its genre, rating, director and budget and hoe accurately can we do that?
+- Can we predict which movie will on Oscar award based on its genre, rating, director and budget and how accurately can we do that?
 - Can we improve the prediction accuracy by considering the average ratings or box office returns of the movie ?
-- How much of an impact does a movie's lenth have on its chances of winning an oscard award ?
+- How much of an impact does a movie's length have on its chances of winning an oscard award ?
 - How do the features of Oscar winning film differ from those of other highly rated films that did not win the Oscar ?
-- How do the features of Oscar winning film change over time ? Foe example, do films that win Best picture today have differnt features than films that won Best picture in the 1980's ?
+- How do the features of Oscar winning film change over time ? For example, do films that win Best picture today have different features than films that won Best picture in the 1980's ?
 - Can we identify any bias or patterns in the selection of oscar winners based on the features such as film's country of origin, directors/actors ?
 - Are movies with higher production budgets more likely to win oscars ?
 
