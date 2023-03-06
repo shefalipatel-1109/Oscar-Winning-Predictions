@@ -3,6 +3,9 @@
 ## Proposal
 
 ## Data Set
+[Oscar Best Motion Picture Data](https://www.kaggle.com/datasets/martinmraz07/oscar-movies)
+
+[Movie Revenue Data](https://cdn.jsdelivr.net/npm/vega-datasets@2.5.4/data/movies.json)
 
 ## Group Roles :
 
