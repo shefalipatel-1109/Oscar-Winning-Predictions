@@ -37,6 +37,7 @@
 
 ### Dashboard
 - Tableau
+- Working on Visualization with Tableau.
 
 ## Communication Protocols
 - Group will communicate through a group Slack channel and WhatsApp to ask questions and share project updates on a regular basis.
