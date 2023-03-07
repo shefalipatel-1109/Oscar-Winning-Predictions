@@ -54,6 +54,36 @@ Will it be "Top Gun: Maverick", "Elvis", or the long-awaited sequel "Avatar: The
 - How do the features of Oscar winning film change over time? For example, do films that win Best Picture today have different features than films that won Best Picture in the 1980's?
 - Are movies with higher production budgets more likely to win oscars?
 
+## Exploratory Analysis and Design :
+The puprose of exploratory analysis is to investigate the relationship between various movie attributes and their chances of winning an oscar award. By analysis the dataset containing information of movies derived from the dataset including their genres, ratings, budgets and box office returns , we aim to identify the patterns and insights that can help us make predictions  much better.
+
+### Data Quality Check
+ Before proceeding with EDA, we need to perform a data quality check to ensure the integrity of the data. The following steps taken:
+  - Check for missing data : we found that there there is plenty of missing data in the ratings , directors, actors, revenue information
+  - Check for duplicate records : No duplicate records found, since it has already been taken care of in Database handling
+  - Check of outliers
+
+### EDA Questions and Results
+ After the data quality check , we need to start with exploring the data by asking several questions and use plots or graphs to answer questions related to the dataset before actually training through Machine Learning
+
+ Some Questions for EDA part of the analysis and their visualizations:
+ - What is the most popular movie 'Genre' ? Are certain genres more likely to receive Oscar nominations or wins than others?<br>
+ 
+     We can create bar charts to represent this
+ - Are there any notable directors who have a higher likelihood of winning an Oscar? <br>
+ 
+    We can create a histogram to show the distribution of Oscar wins by director. 
+ - 	Are there any noticeable trends in the relationship between a movie's length and its ratings or box office revenue? <br>
+ 
+    We can create line charts or scatter plots to examine this.
+ - Are there any years or time periods in which certain features (genre, rating, budget, etc.) were more likely to be associated with Oscar-winning films? <br>
+ 
+    We can create heatmaps or line charts to visualize this.
+ - Is there a correlation between the movie's budget and its ratings on IMDB, Rotten Tomatoes, and box office revenue? <br>
+ 
+    We can create scatter plots or heatmaps to visualize this.
+ 
+ In additon, we can use some visualizations to answer the 'List of questions to be analysed' which will aid in further analysis for Machine learning designing 
 
 
 ## Machine Learning Model 
