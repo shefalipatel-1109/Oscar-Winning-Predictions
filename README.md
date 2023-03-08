@@ -4,7 +4,7 @@
 
 And the Oscar goes to…
 
-Will it be "Top Gun: Maverick", "Elvis", or the long-awaited sequel "Avatar: The Way of Water"? How do we know which will be the next Oscar winning film?  The goal of our final Bootcamp Project is to analyze past results to help us determine which factors most influence the decision-making process to predict the 2023 winners. 
+Will it be Top Gun: Maverick, Elvis, or the long-awaited sequel Avatar: The Way of Water? How do we know which will be the next Oscar winning film?  This “Oscar-winning” proposal seeks to answer these questions. Using the datasets we retrieved, we seek to determine the most influential factors that determine an Oscar winning movie and to build a predictive model that can potentially forecast winners in the future.
 
 ## Data Set
 [Oscar Best Motion Picture Data](https://www.kaggle.com/datasets/martinmraz07/oscar-movies)
