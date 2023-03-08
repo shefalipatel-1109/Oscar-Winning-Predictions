@@ -90,8 +90,10 @@ The puprose of exploratory analysis is to investigate the relationship between v
 
 ## Technology Overview
 ### Data Cleaning and Analysis
+The input files were merged together, null data handled and eventually split into four dataframes to be loaded in PostgreSQL tables. The analysis and data cleaning were done using Python and sqlalchemy.
 
 ### Database Storage
+PostgreSQL tables were used to store the data for the project. ([ERD](ERD/Oscar-Winning-Prediction_ERD.png))
 
 ### Machine Learning
 - Random Forest
