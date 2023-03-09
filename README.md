@@ -54,7 +54,19 @@ Will it be Top Gun: Maverick, Elvis, or the long-awaited sequel Avatar: The Way 
 - How do the features of Oscar winning film change over time? For example, do films that win Best Picture today have different features than films that won Best Picture in the 1980's?
 - Are movies with higher production budgets more likely to win oscars?
 
-## Exploratory Analysis and Design :
+
+
+
+## Machine Learning Model 
+
+## Technology Overview
+### Data Cleaning and Analysis
+The input files were merged together, null data handled and eventually split into four dataframes to be loaded in PostgreSQL tables. The analysis and data cleaning were done using Python and sqlalchemy.
+
+### Database Storage
+PostgreSQL tables were used to store the data for the project. ([ERD](https://github.com/shef1109/Oscar-Winning-Predictions/blob/main/ERD/Oscar-Winning-Production_ERD.png))
+
+### Exploratory Analysis and Design :
 The puprose of exploratory analysis is to investigate the relationship between various movie attributes and their chances of winning an oscar award. By analysis the dataset containing information of movies derived from the dataset including their genres, ratings, budgets and box office returns , we aim to identify the patterns and insights that can help us make predictions  much better.
 
 ### Data Quality Check
@@ -84,17 +96,7 @@ The puprose of exploratory analysis is to investigate the relationship between v
     We can create scatter plots or heatmaps to visualize this.
  
  In additon, we can use some visualizations to answer the 'List of questions to be analysed' which will aid in further analysis for Machine learning designing 
-
-
-## Machine Learning Model 
-
-## Technology Overview
-### Data Cleaning and Analysis
-The input files were merged together, null data handled and eventually split into four dataframes to be loaded in PostgreSQL tables. The analysis and data cleaning were done using Python and sqlalchemy.
-
-### Database Storage
-PostgreSQL tables were used to store the data for the project. ([ERD](https://github.com/shef1109/Oscar-Winning-Predictions/blob/main/ERD/Oscar-Winning-Production_ERD.png))
-
+ 
 ### Machine Learning
 - Random Forest
 - Logistic Regression
