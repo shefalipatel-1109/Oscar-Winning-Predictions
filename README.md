@@ -58,6 +58,9 @@ Will it be Top Gun: Maverick, Elvis, or the long-awaited sequel Avatar: The Way 
 
 
 ## Machine Learning Model 
+The machine learning model will be created using the SciKit-Learn to run a Logistic Regression and will address class imbalance using random over/under sampling, SMOTEEN, or Clustered Random Undersampling modules. 
+
+
 
 ## Technology Overview
 ### Data Cleaning and Analysis
@@ -108,10 +111,12 @@ The puprose of exploratory analysis is to investigate the relationship between v
   Created a bar plot to represent this.
  
 ### Machine Learning
-- Random Forest
+- Sci-Kit Learn
 - Logistic Regression
-- Decision Trees
-- Easy Ensemble AdaBoost Classifier
+- Random Over/Under Sampling
+- SMOTEEN
+- Clustered Random Undersampling
+- Easy Ensemble AdaBoost Classifer
 
 ### Dashboard
 - Tableau
