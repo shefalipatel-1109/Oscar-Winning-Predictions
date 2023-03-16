@@ -58,6 +58,9 @@ Will it be Top Gun: Maverick, Elvis, or the long-awaited sequel Avatar: The Way 
 
 
 ## Machine Learning Model 
+The machine learning model will be created using the SciKit-Learn to run a Logistic Regression and will address class imbalance using random over/under sampling, SMOTEEN, or Clustered Random Undersampling modules. 
+
+
 
 ## Technology Overview
 ### Data Cleaning and Analysis
@@ -81,27 +84,39 @@ The puprose of exploratory analysis is to investigate the relationship between v
  Some Questions for EDA part of the analysis and their visualizations:
  - What is the most popular movie 'Genre' ? Are certain genres more likely to receive Oscar nominations or wins than others?<br>
  
-     We can create bar charts to represent this
+  We created bar plot to represent this
  - Are there any notable directors who have a higher likelihood of winning an Oscar? <br>
- 
-    We can create a histogram to show the distribution of Oscar wins by director. 
+    Created a dataframe to get the top 10 directors and represented the plot with a hist plot to
+    show the distribution of Oscar wins by director. 
  - 	Are there any noticeable trends in the relationship between a movie's length and its ratings or box office revenue? <br>
  
-    We can create line charts or scatter plots to examine this.
- - Are there any years or time periods in which certain features (genre, rating, budget, etc.) were more likely to be associated with Oscar-winning films? <br>
- 
-    We can create heatmaps or line charts to visualize this.
- - Is there a correlation between the movie's budget and its ratings on IMDB, Rotten Tomatoes, and box office revenue? <br>
- 
-    We can create scatter plots or heatmaps to visualize this.
- 
- In additon, we can use some visualizations to answer the 'List of questions to be analysed' which will aid in further analysis for Machine learning designing 
+    Multiple scatter plots were created to examine this.
+    
+    a. Scatterplot for runtime and averagerating <br>
+    b. Scatterplot for runtime and number of votes <br>
+    c. Scatterplot for runtime and us_gross_income <br>
+    d. Scatterplot for runtime and worldwide_gross_income <br>
+    e. Scatterplot for runtime and production_budget <br>
+
+- Is there a correlation between the movie's budget and its ratings on IMDB, Rotten Tomatoes, and box office revenue? <br>
+    Created a heatmap to represent this.
+
+- Are movies with higher production budget more likely to win Oscars ? <br>
+   Created a scatter plot of production budget vs. number of Oscars won.
+
+- Are movies with good average ratings more likely to win oscars <br>
+  10.33% of movies with good average ratings have won an Oscar.
+
+- Percentage of Movies with good average ratings that won the oscars Vs that did not win <br>
+  Created a bar plot to represent this.
  
 ### Machine Learning
-- Random Forest
+- Sci-Kit Learn
 - Logistic Regression
-- Decision Trees
-- Easy Ensemble AdaBoost Classifier
+- Random Over/Under Sampling
+- SMOTEEN
+- Clustered Random Undersampling
+- Easy Ensemble AdaBoost Classifer
 
 ### Dashboard
 - Tableau
