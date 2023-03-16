@@ -121,7 +121,7 @@ The puprose of exploratory analysis is to investigate the relationship between v
 ### Dashboard
 - Tableau
 - Working on Visualization with Tableau.
-- Dashboard Link: [Visualization](http:file:///C:/Users/priya/OneDrive/Desktop/project/oscar%20dashboard/index.html)
+- Dashboard Link: [Visualization](http:file:///C:/Users/priya/OneDrive/Desktop/Oscar-Winning-Predictions/Viz/oscar%20dashboard/index.html)
 
 ## Communication Protocols
 - Group will communicate through a group Slack channel and WhatsApp to ask questions and share project updates on a regular basis.
