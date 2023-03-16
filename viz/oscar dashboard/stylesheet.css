@@ -1,0 +1,73 @@
+
+body{ 
+    color:#0f0e0f;
+    background-color:#f7f7f7;
+}
+.container{
+    text-align: center;
+    text-decoration: solid;
+    text-decoration-color: bisque;
+    text-shadow: #7d537d;
+    font-size: larger;
+    font-display:yellow ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-feature-settings: "blwm";
+
+}
+.button {
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-style: normal;
+    font-display: black;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  
+  .button1 {
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    background-color: #d2ded2;
+  } /* Green */
+  .button2 {
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    background-color: #d5e1e5;
+  } /* Blue */
+.well{
+    background-color: rgb(51, 134, 201);
+}
+.panel-title{
+    font-style: initial;
+    color:black;
+}
+.panel-body{
+    background-color:white;
+    font-style: bold;
+    font-size: xx-large;
+}
+
+.jumbotron {
+
+    background-image: url("bellybutton1.jpeg");
+    background-size: 100% 100%;
+    text-align: center;
+  }
