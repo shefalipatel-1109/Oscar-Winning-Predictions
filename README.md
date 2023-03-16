@@ -109,7 +109,10 @@ The puprose of exploratory analysis is to investigate the relationship between v
 
 - Percentage of Movies with good average ratings that won the oscars Vs that did not win <br>
   Created a bar plot to represent this.
- 
+
+The Results of all the plots are stored in this location : 
+[EDA Results](https://github.com/shef1109/Oscar-Winning-Predictions/tree/main/EDA/Outputs)
+
 ### Machine Learning
 - Sci-Kit Learn
 - Logistic Regression
