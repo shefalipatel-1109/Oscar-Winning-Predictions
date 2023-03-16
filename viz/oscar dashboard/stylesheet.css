@@ -38,7 +38,7 @@ body{
     font-size: 16px;
     margin: 4px 2px;
     cursor: pointer;
-    background-color: #d2ded2;
+    /*background-color: #d2ded2;*/
   } /* Green */
   .button2 {
     border: none;
@@ -50,8 +50,44 @@ body{
     font-size: 16px;
     margin: 4px 2px;
     cursor: pointer;
-    background-color: #d5e1e5;
+    /*background-color: #d5e1e5;*/
   } /* Blue */
+  .button3 {
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    /*background-color: #d2ded2;*/
+  } /* Green */
+  .button4 {
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    /*background-color: #d2ded2;*/
+  } /* Green */
+  .button5 {
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    /*background-color: #d2ded2;*/
+  } /* Green */
 .well{
     background-color: rgb(51, 134, 201);
 }
