@@ -1,4 +1,4 @@
-[
+var data = [
  {
    "movie_id": 1,
    "movie_name": "Wings",
@@ -26836,4 +26836,4 @@
    "FIELD44": "",
    "FIELD45": ""
  }
-]
+];
