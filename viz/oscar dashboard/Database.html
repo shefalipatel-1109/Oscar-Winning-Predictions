@@ -43,25 +43,28 @@
                 EDA
             </a>
         </div>
+        
         <div class= "row">
-            <div class='col-lg-12'>
-                <div id="inputable" class="well well-sm"></div> 
-                <h4>Question 1: What are the most popular movie genres ?</h4>
-                <img bordar="0" alt="W3Schools" src="Q1.png" width="500" height="300"><br>
-                <h4>Are there any noticable directors who have a higher likelihood of winning an Oscar?</h4>
-                <img bordar="0" alt="W3Schools" src="Q2.png" width="500" height="300"><br>
-
+            <div class="dropdown">
+                <button onclick="myFunction()" class="dropbtn">Choose Table</button>
+                <div id="myDropdown" class="dropdown-content"> 
+                        <a href="data/movies.json">Movies</a><br>
+                        <a href="data/movie_ratings.json">Movie_Ratings</a><br>
+                        <a href="data/movie_revenue.json">Movie_Revenue</a><br>
+                        <a href="data/oscar_details.json">Oscar_Details</a><br>
+                    </optgroup>
+                </select>
+                <div class="dropdown2">
+                    <button onclick="myFunction()" class="dropbtn">ERD</button>
+                    <div id="myDropdown" class="dropdown-content"> 
+                    <a href ="ERD.png">ERD</a>
             </div>
+            
         </div>
-        <div class="row">
-            <div class='col-lg-12'>
-                <div id="filteredtable" class="well well-sm"></div>
-            </div>
-        </div>
-    </main>
+        </main>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-    <script src="charts.js"></script>
+    <script src="table.js"></script>
     
 </body>
 </html>

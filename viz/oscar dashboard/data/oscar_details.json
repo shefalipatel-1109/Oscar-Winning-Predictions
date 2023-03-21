@@ -1,0 +1,2857 @@
+[
+ {
+   "movie_id": 1,
+   "oscar_year": 1927,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 2,
+   "oscar_year": 1927,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 3,
+   "oscar_year": 1927,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 4,
+   "oscar_year": 1928,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 5,
+   "oscar_year": 1928,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 6,
+   "oscar_year": 1928,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 7,
+   "oscar_year": 1928,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 8,
+   "oscar_year": 1928,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 9,
+   "oscar_year": 1929,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 10,
+   "oscar_year": 1929,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 11,
+   "oscar_year": 1929,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 12,
+   "oscar_year": 1929,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 13,
+   "oscar_year": 1929,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 14,
+   "oscar_year": 1930,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 15,
+   "oscar_year": 1930,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 16,
+   "oscar_year": 1930,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 17,
+   "oscar_year": 1930,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 18,
+   "oscar_year": 1930,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 19,
+   "oscar_year": 1931,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 20,
+   "oscar_year": 1931,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 21,
+   "oscar_year": 1931,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 22,
+   "oscar_year": 1931,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 23,
+   "oscar_year": 1931,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 24,
+   "oscar_year": 1931,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 25,
+   "oscar_year": 1931,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 26,
+   "oscar_year": 1931,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 27,
+   "oscar_year": 1932,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 28,
+   "oscar_year": 1932,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 29,
+   "oscar_year": 1932,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 30,
+   "oscar_year": 1932,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 31,
+   "oscar_year": 1932,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 32,
+   "oscar_year": 1932,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 33,
+   "oscar_year": 1932,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 34,
+   "oscar_year": 1932,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 35,
+   "oscar_year": 1932,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 36,
+   "oscar_year": 1932,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 37,
+   "oscar_year": 1934,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 38,
+   "oscar_year": 1934,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 39,
+   "oscar_year": 1934,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 40,
+   "oscar_year": 1934,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 41,
+   "oscar_year": 1934,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 42,
+   "oscar_year": 1934,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 43,
+   "oscar_year": 1934,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 44,
+   "oscar_year": 1934,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 45,
+   "oscar_year": 1934,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 46,
+   "oscar_year": 1934,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 47,
+   "oscar_year": 1934,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 48,
+   "oscar_year": 1934,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 49,
+   "oscar_year": 1935,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 50,
+   "oscar_year": 1935,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 51,
+   "oscar_year": 1935,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 52,
+   "oscar_year": 1935,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 53,
+   "oscar_year": 1935,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 54,
+   "oscar_year": 1935,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 55,
+   "oscar_year": 1935,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 56,
+   "oscar_year": 1935,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 57,
+   "oscar_year": 1935,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 58,
+   "oscar_year": 1935,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 59,
+   "oscar_year": 1935,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 60,
+   "oscar_year": 1935,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 61,
+   "oscar_year": 1936,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 62,
+   "oscar_year": 1936,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 63,
+   "oscar_year": 1936,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 64,
+   "oscar_year": 1936,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 65,
+   "oscar_year": 1936,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 66,
+   "oscar_year": 1936,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 67,
+   "oscar_year": 1936,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 68,
+   "oscar_year": 1936,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 69,
+   "oscar_year": 1936,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 70,
+   "oscar_year": 1936,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 71,
+   "oscar_year": 1937,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 72,
+   "oscar_year": 1937,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 73,
+   "oscar_year": 1937,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 74,
+   "oscar_year": 1937,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 75,
+   "oscar_year": 1937,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 76,
+   "oscar_year": 1937,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 77,
+   "oscar_year": 1937,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 78,
+   "oscar_year": 1937,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 79,
+   "oscar_year": 1937,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 80,
+   "oscar_year": 1937,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 81,
+   "oscar_year": 1938,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 82,
+   "oscar_year": 1938,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 83,
+   "oscar_year": 1938,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 84,
+   "oscar_year": 1938,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 85,
+   "oscar_year": 1938,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 86,
+   "oscar_year": 1938,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 87,
+   "oscar_year": 1938,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 88,
+   "oscar_year": 1938,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 89,
+   "oscar_year": 1938,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 90,
+   "oscar_year": 1938,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 91,
+   "oscar_year": 1939,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 92,
+   "oscar_year": 1939,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 93,
+   "oscar_year": 1939,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 94,
+   "oscar_year": 1939,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 95,
+   "oscar_year": 1939,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 96,
+   "oscar_year": 1939,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 97,
+   "oscar_year": 1939,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 98,
+   "oscar_year": 1939,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 99,
+   "oscar_year": 1939,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 100,
+   "oscar_year": 1939,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 101,
+   "oscar_year": 1940,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 102,
+   "oscar_year": 1940,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 103,
+   "oscar_year": 1940,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 104,
+   "oscar_year": 1940,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 105,
+   "oscar_year": 1940,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 106,
+   "oscar_year": 1940,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 107,
+   "oscar_year": 1940,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 108,
+   "oscar_year": 1940,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 109,
+   "oscar_year": 1940,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 110,
+   "oscar_year": 1940,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 111,
+   "oscar_year": 1941,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 112,
+   "oscar_year": 1941,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 113,
+   "oscar_year": 1941,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 114,
+   "oscar_year": 1941,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 115,
+   "oscar_year": 1941,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 116,
+   "oscar_year": 1941,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 117,
+   "oscar_year": 1941,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 118,
+   "oscar_year": 1941,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 119,
+   "oscar_year": 1941,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 120,
+   "oscar_year": 1941,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 121,
+   "oscar_year": 1942,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 122,
+   "oscar_year": 1942,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 123,
+   "oscar_year": 1942,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 124,
+   "oscar_year": 1942,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 125,
+   "oscar_year": 1942,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 126,
+   "oscar_year": 1942,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 127,
+   "oscar_year": 1942,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 128,
+   "oscar_year": 1942,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 129,
+   "oscar_year": 1942,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 130,
+   "oscar_year": 1942,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 131,
+   "oscar_year": 1943,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 132,
+   "oscar_year": 1943,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 133,
+   "oscar_year": 1943,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 134,
+   "oscar_year": 1943,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 135,
+   "oscar_year": 1943,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 136,
+   "oscar_year": 1943,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 137,
+   "oscar_year": 1943,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 138,
+   "oscar_year": 1943,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 139,
+   "oscar_year": 1943,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 140,
+   "oscar_year": 1943,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 141,
+   "oscar_year": 1944,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 142,
+   "oscar_year": 1944,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 143,
+   "oscar_year": 1944,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 144,
+   "oscar_year": 1944,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 145,
+   "oscar_year": 1944,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 146,
+   "oscar_year": 1945,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 147,
+   "oscar_year": 1945,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 148,
+   "oscar_year": 1945,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 149,
+   "oscar_year": 1945,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 150,
+   "oscar_year": 1945,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 151,
+   "oscar_year": 1946,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 152,
+   "oscar_year": 1946,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 153,
+   "oscar_year": 1946,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 154,
+   "oscar_year": 1946,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 155,
+   "oscar_year": 1946,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 156,
+   "oscar_year": 1947,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 157,
+   "oscar_year": 1947,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 158,
+   "oscar_year": 1947,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 159,
+   "oscar_year": 1947,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 160,
+   "oscar_year": 1947,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 161,
+   "oscar_year": 1948,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 162,
+   "oscar_year": 1948,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 163,
+   "oscar_year": 1948,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 164,
+   "oscar_year": 1948,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 165,
+   "oscar_year": 1948,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 166,
+   "oscar_year": 1949,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 167,
+   "oscar_year": 1949,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 168,
+   "oscar_year": 1949,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 169,
+   "oscar_year": 1949,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 170,
+   "oscar_year": 1949,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 171,
+   "oscar_year": 1950,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 172,
+   "oscar_year": 1950,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 173,
+   "oscar_year": 1950,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 174,
+   "oscar_year": 1950,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 175,
+   "oscar_year": 1950,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 176,
+   "oscar_year": 1951,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 177,
+   "oscar_year": 1951,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 178,
+   "oscar_year": 1951,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 179,
+   "oscar_year": 1951,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 180,
+   "oscar_year": 1951,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 181,
+   "oscar_year": 1952,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 182,
+   "oscar_year": 1952,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 183,
+   "oscar_year": 1952,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 184,
+   "oscar_year": 1952,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 185,
+   "oscar_year": 1952,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 186,
+   "oscar_year": 1953,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 187,
+   "oscar_year": 1953,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 188,
+   "oscar_year": 1953,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 189,
+   "oscar_year": 1953,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 190,
+   "oscar_year": 1953,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 191,
+   "oscar_year": 1954,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 192,
+   "oscar_year": 1954,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 193,
+   "oscar_year": 1954,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 194,
+   "oscar_year": 1954,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 195,
+   "oscar_year": 1954,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 196,
+   "oscar_year": 1955,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 197,
+   "oscar_year": 1955,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 198,
+   "oscar_year": 1955,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 199,
+   "oscar_year": 1955,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 200,
+   "oscar_year": 1955,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 201,
+   "oscar_year": 1956,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 202,
+   "oscar_year": 1956,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 203,
+   "oscar_year": 1956,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 204,
+   "oscar_year": 1956,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 205,
+   "oscar_year": 1956,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 206,
+   "oscar_year": 1957,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 207,
+   "oscar_year": 1957,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 208,
+   "oscar_year": 1957,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 209,
+   "oscar_year": 1957,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 210,
+   "oscar_year": 1957,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 211,
+   "oscar_year": 1958,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 212,
+   "oscar_year": 1958,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 213,
+   "oscar_year": 1958,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 214,
+   "oscar_year": 1958,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 215,
+   "oscar_year": 1958,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 216,
+   "oscar_year": 1959,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 217,
+   "oscar_year": 1959,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 218,
+   "oscar_year": 1959,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 219,
+   "oscar_year": 1959,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 220,
+   "oscar_year": 1959,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 221,
+   "oscar_year": 1960,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 222,
+   "oscar_year": 1960,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 223,
+   "oscar_year": 1960,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 224,
+   "oscar_year": 1960,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 225,
+   "oscar_year": 1960,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 226,
+   "oscar_year": 1961,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 227,
+   "oscar_year": 1961,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 228,
+   "oscar_year": 1961,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 229,
+   "oscar_year": 1961,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 230,
+   "oscar_year": 1961,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 231,
+   "oscar_year": 1962,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 232,
+   "oscar_year": 1962,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 233,
+   "oscar_year": 1962,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 234,
+   "oscar_year": 1962,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 235,
+   "oscar_year": 1962,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 236,
+   "oscar_year": 1963,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 237,
+   "oscar_year": 1963,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 238,
+   "oscar_year": 1963,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 239,
+   "oscar_year": 1963,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 240,
+   "oscar_year": 1963,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 241,
+   "oscar_year": 1964,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 242,
+   "oscar_year": 1964,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 243,
+   "oscar_year": 1964,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 244,
+   "oscar_year": 1964,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 245,
+   "oscar_year": 1964,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 246,
+   "oscar_year": 1965,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 247,
+   "oscar_year": 1965,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 248,
+   "oscar_year": 1965,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 249,
+   "oscar_year": 1965,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 250,
+   "oscar_year": 1965,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 251,
+   "oscar_year": 1966,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 252,
+   "oscar_year": 1966,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 253,
+   "oscar_year": 1966,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 254,
+   "oscar_year": 1966,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 255,
+   "oscar_year": 1966,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 256,
+   "oscar_year": 1967,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 257,
+   "oscar_year": 1967,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 258,
+   "oscar_year": 1967,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 259,
+   "oscar_year": 1967,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 260,
+   "oscar_year": 1967,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 261,
+   "oscar_year": 1968,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 262,
+   "oscar_year": 1968,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 263,
+   "oscar_year": 1968,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 264,
+   "oscar_year": 1968,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 265,
+   "oscar_year": 1968,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 266,
+   "oscar_year": 1969,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 267,
+   "oscar_year": 1969,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 268,
+   "oscar_year": 1969,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 269,
+   "oscar_year": 1969,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 270,
+   "oscar_year": 1969,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 271,
+   "oscar_year": 1970,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 272,
+   "oscar_year": 1970,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 273,
+   "oscar_year": 1970,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 274,
+   "oscar_year": 1970,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 275,
+   "oscar_year": 1970,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 276,
+   "oscar_year": 1971,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 277,
+   "oscar_year": 1971,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 278,
+   "oscar_year": 1971,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 279,
+   "oscar_year": 1971,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 280,
+   "oscar_year": 1971,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 281,
+   "oscar_year": 1972,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 282,
+   "oscar_year": 1972,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 283,
+   "oscar_year": 1972,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 284,
+   "oscar_year": 1972,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 285,
+   "oscar_year": 1972,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 286,
+   "oscar_year": 1973,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 287,
+   "oscar_year": 1973,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 288,
+   "oscar_year": 1973,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 289,
+   "oscar_year": 1973,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 290,
+   "oscar_year": 1973,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 291,
+   "oscar_year": 1974,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 292,
+   "oscar_year": 1974,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 293,
+   "oscar_year": 1974,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 294,
+   "oscar_year": 1974,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 295,
+   "oscar_year": 1974,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 296,
+   "oscar_year": 1975,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 297,
+   "oscar_year": 1975,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 298,
+   "oscar_year": 1975,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 299,
+   "oscar_year": 1975,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 300,
+   "oscar_year": 1975,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 301,
+   "oscar_year": 1976,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 302,
+   "oscar_year": 1976,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 303,
+   "oscar_year": 1976,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 304,
+   "oscar_year": 1976,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 305,
+   "oscar_year": 1976,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 306,
+   "oscar_year": 1977,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 307,
+   "oscar_year": 1977,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 308,
+   "oscar_year": 1977,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 309,
+   "oscar_year": 1977,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 310,
+   "oscar_year": 1977,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 311,
+   "oscar_year": 1978,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 312,
+   "oscar_year": 1978,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 313,
+   "oscar_year": 1978,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 314,
+   "oscar_year": 1978,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 315,
+   "oscar_year": 1978,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 316,
+   "oscar_year": 1979,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 317,
+   "oscar_year": 1979,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 318,
+   "oscar_year": 1979,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 319,
+   "oscar_year": 1979,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 320,
+   "oscar_year": 1979,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 321,
+   "oscar_year": 1980,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 322,
+   "oscar_year": 1980,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 323,
+   "oscar_year": 1980,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 324,
+   "oscar_year": 1980,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 325,
+   "oscar_year": 1980,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 326,
+   "oscar_year": 1981,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 327,
+   "oscar_year": 1981,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 328,
+   "oscar_year": 1981,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 329,
+   "oscar_year": 1981,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 330,
+   "oscar_year": 1981,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 331,
+   "oscar_year": 1982,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 332,
+   "oscar_year": 1982,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 333,
+   "oscar_year": 1982,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 334,
+   "oscar_year": 1982,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 335,
+   "oscar_year": 1982,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 336,
+   "oscar_year": 1983,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 337,
+   "oscar_year": 1983,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 338,
+   "oscar_year": 1983,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 339,
+   "oscar_year": 1983,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 340,
+   "oscar_year": 1983,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 341,
+   "oscar_year": 1984,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 342,
+   "oscar_year": 1984,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 343,
+   "oscar_year": 1984,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 344,
+   "oscar_year": 1984,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 345,
+   "oscar_year": 1984,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 346,
+   "oscar_year": 1985,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 347,
+   "oscar_year": 1985,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 348,
+   "oscar_year": 1985,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 349,
+   "oscar_year": 1985,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 350,
+   "oscar_year": 1985,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 351,
+   "oscar_year": 1986,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 352,
+   "oscar_year": 1986,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 353,
+   "oscar_year": 1986,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 354,
+   "oscar_year": 1986,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 355,
+   "oscar_year": 1986,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 356,
+   "oscar_year": 1987,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 357,
+   "oscar_year": 1987,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 358,
+   "oscar_year": 1987,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 359,
+   "oscar_year": 1987,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 360,
+   "oscar_year": 1987,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 361,
+   "oscar_year": 1988,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 362,
+   "oscar_year": 1988,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 363,
+   "oscar_year": 1988,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 364,
+   "oscar_year": 1988,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 365,
+   "oscar_year": 1988,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 366,
+   "oscar_year": 1989,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 367,
+   "oscar_year": 1989,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 368,
+   "oscar_year": 1989,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 369,
+   "oscar_year": 1989,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 370,
+   "oscar_year": 1989,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 371,
+   "oscar_year": 1990,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 372,
+   "oscar_year": 1990,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 373,
+   "oscar_year": 1990,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 374,
+   "oscar_year": 1990,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 375,
+   "oscar_year": 1990,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 376,
+   "oscar_year": 1991,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 377,
+   "oscar_year": 1991,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 378,
+   "oscar_year": 1991,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 379,
+   "oscar_year": 1991,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 380,
+   "oscar_year": 1991,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 381,
+   "oscar_year": 1992,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 382,
+   "oscar_year": 1992,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 383,
+   "oscar_year": 1992,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 384,
+   "oscar_year": 1992,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 385,
+   "oscar_year": 1992,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 386,
+   "oscar_year": 1993,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 387,
+   "oscar_year": 1993,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 388,
+   "oscar_year": 1993,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 389,
+   "oscar_year": 1993,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 390,
+   "oscar_year": 1993,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 391,
+   "oscar_year": 1994,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 392,
+   "oscar_year": 1994,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 393,
+   "oscar_year": 1994,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 394,
+   "oscar_year": 1994,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 395,
+   "oscar_year": 1994,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 396,
+   "oscar_year": 1995,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 397,
+   "oscar_year": 1995,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 398,
+   "oscar_year": 1995,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 399,
+   "oscar_year": 1995,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 400,
+   "oscar_year": 1995,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 401,
+   "oscar_year": 1996,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 402,
+   "oscar_year": 1996,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 403,
+   "oscar_year": 1996,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 404,
+   "oscar_year": 1996,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 405,
+   "oscar_year": 1996,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 406,
+   "oscar_year": 1997,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 407,
+   "oscar_year": 1997,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 408,
+   "oscar_year": 1997,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 409,
+   "oscar_year": 1997,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 410,
+   "oscar_year": 1997,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 411,
+   "oscar_year": 1998,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 412,
+   "oscar_year": 1998,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 413,
+   "oscar_year": 1998,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 414,
+   "oscar_year": 1998,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 415,
+   "oscar_year": 1998,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 416,
+   "oscar_year": 1999,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 417,
+   "oscar_year": 1999,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 418,
+   "oscar_year": 1999,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 419,
+   "oscar_year": 1999,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 420,
+   "oscar_year": 1999,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 421,
+   "oscar_year": 2000,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 422,
+   "oscar_year": 2000,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 423,
+   "oscar_year": 2000,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 424,
+   "oscar_year": 2000,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 425,
+   "oscar_year": 2000,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 426,
+   "oscar_year": 2001,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 427,
+   "oscar_year": 2001,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 428,
+   "oscar_year": 2001,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 429,
+   "oscar_year": 2001,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 430,
+   "oscar_year": 2001,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 431,
+   "oscar_year": 2002,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 432,
+   "oscar_year": 2002,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 433,
+   "oscar_year": 2002,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 434,
+   "oscar_year": 2002,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 435,
+   "oscar_year": 2002,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 436,
+   "oscar_year": 2003,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 437,
+   "oscar_year": 2003,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 438,
+   "oscar_year": 2003,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 439,
+   "oscar_year": 2003,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 440,
+   "oscar_year": 2003,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 441,
+   "oscar_year": 2004,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 442,
+   "oscar_year": 2004,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 443,
+   "oscar_year": 2004,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 444,
+   "oscar_year": 2004,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 445,
+   "oscar_year": 2004,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 446,
+   "oscar_year": 2005,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 447,
+   "oscar_year": 2005,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 448,
+   "oscar_year": 2005,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 449,
+   "oscar_year": 2005,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 450,
+   "oscar_year": 2005,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 451,
+   "oscar_year": 2006,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 452,
+   "oscar_year": 2006,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 453,
+   "oscar_year": 2006,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 454,
+   "oscar_year": 2006,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 455,
+   "oscar_year": 2006,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 456,
+   "oscar_year": 2007,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 457,
+   "oscar_year": 2007,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 458,
+   "oscar_year": 2007,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 459,
+   "oscar_year": 2007,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 460,
+   "oscar_year": 2007,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 461,
+   "oscar_year": 2008,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 462,
+   "oscar_year": 2008,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 463,
+   "oscar_year": 2008,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 464,
+   "oscar_year": 2008,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 465,
+   "oscar_year": 2008,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 466,
+   "oscar_year": 2009,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 467,
+   "oscar_year": 2009,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 468,
+   "oscar_year": 2009,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 469,
+   "oscar_year": 2009,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 470,
+   "oscar_year": 2009,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 471,
+   "oscar_year": 2009,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 472,
+   "oscar_year": 2009,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 473,
+   "oscar_year": 2009,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 474,
+   "oscar_year": 2009,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 475,
+   "oscar_year": 2009,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 476,
+   "oscar_year": 2010,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 477,
+   "oscar_year": 2010,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 478,
+   "oscar_year": 2010,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 479,
+   "oscar_year": 2010,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 480,
+   "oscar_year": 2010,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 481,
+   "oscar_year": 2010,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 482,
+   "oscar_year": 2010,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 483,
+   "oscar_year": 2010,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 484,
+   "oscar_year": 2010,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 485,
+   "oscar_year": 2010,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 486,
+   "oscar_year": 2011,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 487,
+   "oscar_year": 2011,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 488,
+   "oscar_year": 2011,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 489,
+   "oscar_year": 2011,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 490,
+   "oscar_year": 2011,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 491,
+   "oscar_year": 2011,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 492,
+   "oscar_year": 2011,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 493,
+   "oscar_year": 2011,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 494,
+   "oscar_year": 2011,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 495,
+   "oscar_year": 2012,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 496,
+   "oscar_year": 2012,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 497,
+   "oscar_year": 2012,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 498,
+   "oscar_year": 2012,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 499,
+   "oscar_year": 2012,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 500,
+   "oscar_year": 2012,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 501,
+   "oscar_year": 2012,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 502,
+   "oscar_year": 2012,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 503,
+   "oscar_year": 2012,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 504,
+   "oscar_year": 2013,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 505,
+   "oscar_year": 2013,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 506,
+   "oscar_year": 2013,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 507,
+   "oscar_year": 2013,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 508,
+   "oscar_year": 2013,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 509,
+   "oscar_year": 2013,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 510,
+   "oscar_year": 2013,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 511,
+   "oscar_year": 2013,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 512,
+   "oscar_year": 2013,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 513,
+   "oscar_year": 2014,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 514,
+   "oscar_year": 2014,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 515,
+   "oscar_year": 2014,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 516,
+   "oscar_year": 2014,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 517,
+   "oscar_year": 2014,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 518,
+   "oscar_year": 2014,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 519,
+   "oscar_year": 2014,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 520,
+   "oscar_year": 2014,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 521,
+   "oscar_year": 2015,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 522,
+   "oscar_year": 2015,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 523,
+   "oscar_year": 2015,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 524,
+   "oscar_year": 2015,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 525,
+   "oscar_year": 2015,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 526,
+   "oscar_year": 2015,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 527,
+   "oscar_year": 2015,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 528,
+   "oscar_year": 2015,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 529,
+   "oscar_year": 2016,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 530,
+   "oscar_year": 2016,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 531,
+   "oscar_year": 2016,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 532,
+   "oscar_year": 2016,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 533,
+   "oscar_year": 2016,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 534,
+   "oscar_year": 2016,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 535,
+   "oscar_year": 2016,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 536,
+   "oscar_year": 2016,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 537,
+   "oscar_year": 2016,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 538,
+   "oscar_year": 2017,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 539,
+   "oscar_year": 2017,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 540,
+   "oscar_year": 2017,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 541,
+   "oscar_year": 2017,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 542,
+   "oscar_year": 2017,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 543,
+   "oscar_year": 2017,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 544,
+   "oscar_year": 2017,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 545,
+   "oscar_year": 2017,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 546,
+   "oscar_year": 2017,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 547,
+   "oscar_year": 2018,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 548,
+   "oscar_year": 2018,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 549,
+   "oscar_year": 2018,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 550,
+   "oscar_year": 2018,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 551,
+   "oscar_year": 2018,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 552,
+   "oscar_year": 2018,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 553,
+   "oscar_year": 2018,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 554,
+   "oscar_year": 2018,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 555,
+   "oscar_year": 2019,
+   "award": "Winner"
+ },
+ {
+   "movie_id": 556,
+   "oscar_year": 2019,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 557,
+   "oscar_year": 2019,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 558,
+   "oscar_year": 2019,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 559,
+   "oscar_year": 2019,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 560,
+   "oscar_year": 2019,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 561,
+   "oscar_year": 2019,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 562,
+   "oscar_year": 2019,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 563,
+   "oscar_year": 2019,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 564,
+   "oscar_year": 2020,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 565,
+   "oscar_year": 2020,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 566,
+   "oscar_year": 2020,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 567,
+   "oscar_year": 2020,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 568,
+   "oscar_year": 2020,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 569,
+   "oscar_year": 2020,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 570,
+   "oscar_year": 2020,
+   "award": "Nominee"
+ },
+ {
+   "movie_id": 571,
+   "oscar_year": 2020,
+   "award": "Nominee"
+ }
+]

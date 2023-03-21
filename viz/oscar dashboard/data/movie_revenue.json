@@ -1,0 +1,1148 @@
+[
+ {
+   "movie_id": 1,
+   "us_gross_income": 0,
+   "worldwide_gross_income": 0,
+   "production_budget": 2000000
+ },
+ {
+   "movie_id": 4,
+   "us_gross_income": 2800000,
+   "worldwide_gross_income": 4358000,
+   "production_budget": 379000
+ },
+ {
+   "movie_id": 8,
+   "us_gross_income": 113330342,
+   "worldwide_gross_income": 215300000,
+   "production_budget": 110000000
+ },
+ {
+   "movie_id": 16,
+   "us_gross_income": 15000000,
+   "worldwide_gross_income": 15000000,
+   "production_budget": 4000000
+ },
+ {
+   "movie_id": 28,
+   "us_gross_income": 2300000,
+   "worldwide_gross_income": 2300000,
+   "production_budget": 439000
+ },
+ {
+   "movie_id": 32,
+   "us_gross_income": 50003303,
+   "worldwide_gross_income": 50003303,
+   "production_budget": 15000000
+ },
+ {
+   "movie_id": 34,
+   "us_gross_income": 2000000,
+   "worldwide_gross_income": 2000000,
+   "production_budget": 200000
+ },
+ {
+   "movie_id": 36,
+   "us_gross_income": 3500000,
+   "worldwide_gross_income": 3500000,
+   "production_budget": 4500000
+ },
+ {
+   "movie_id": 37,
+   "us_gross_income": 2500000,
+   "worldwide_gross_income": 2500000,
+   "production_budget": 325000
+ },
+ {
+   "movie_id": 39,
+   "us_gross_income": 48000000,
+   "worldwide_gross_income": 62000000,
+   "production_budget": 36000000
+ },
+ {
+   "movie_id": 83,
+   "us_gross_income": 4000000,
+   "worldwide_gross_income": 4000000,
+   "production_budget": 2000000
+ },
+ {
+   "movie_id": 91,
+   "us_gross_income": 198680470,
+   "worldwide_gross_income": 390525192,
+   "production_budget": 3900000
+ },
+ {
+   "movie_id": 99,
+   "us_gross_income": 28202232,
+   "worldwide_gross_income": 28202232,
+   "production_budget": 2777000
+ },
+ {
+   "movie_id": 101,
+   "us_gross_income": 6000000,
+   "worldwide_gross_income": 6000000,
+   "production_budget": 1288000
+ },
+ {
+   "movie_id": 111,
+   "us_gross_income": 0,
+   "worldwide_gross_income": 0,
+   "production_budget": 1250000
+ },
+ {
+   "movie_id": 131,
+   "us_gross_income": 10462500,
+   "worldwide_gross_income": 10462500,
+   "production_budget": 950000
+ },
+ {
+   "movie_id": 145,
+   "us_gross_income": 2000000,
+   "worldwide_gross_income": 2000000,
+   "production_budget": 5200000
+ },
+ {
+   "movie_id": 146,
+   "us_gross_income": 11000000,
+   "worldwide_gross_income": 11000000,
+   "production_budget": 1250000
+ },
+ {
+   "movie_id": 150,
+   "us_gross_income": 7000000,
+   "worldwide_gross_income": 7000000,
+   "production_budget": 1500000
+ },
+ {
+   "movie_id": 151,
+   "us_gross_income": 23600000,
+   "worldwide_gross_income": 23600000,
+   "production_budget": 2100000
+ },
+ {
+   "movie_id": 152,
+   "us_gross_income": 10161099,
+   "worldwide_gross_income": 10161099,
+   "production_budget": 9000000
+ },
+ {
+   "movie_id": 153,
+   "us_gross_income": 6600000,
+   "worldwide_gross_income": 6600000,
+   "production_budget": 3180000
+ },
+ {
+   "movie_id": 156,
+   "us_gross_income": 7800000,
+   "worldwide_gross_income": 7800000,
+   "production_budget": 2000000
+ },
+ {
+   "movie_id": 161,
+   "us_gross_income": 4501094,
+   "worldwide_gross_income": 7129670,
+   "production_budget": 18000000
+ },
+ {
+   "movie_id": 166,
+   "us_gross_income": 7221458,
+   "worldwide_gross_income": 9521458,
+   "production_budget": 55000000
+ },
+ {
+   "movie_id": 180,
+   "us_gross_income": 8000000,
+   "worldwide_gross_income": 8000000,
+   "production_budget": 1800000
+ },
+ {
+   "movie_id": 181,
+   "us_gross_income": 36000000,
+   "worldwide_gross_income": 36000000,
+   "production_budget": 4000000
+ },
+ {
+   "movie_id": 182,
+   "us_gross_income": 8000000,
+   "worldwide_gross_income": 8000000,
+   "production_budget": 730000
+ },
+ {
+   "movie_id": 184,
+   "us_gross_income": 57386369,
+   "worldwide_gross_income": 179213196,
+   "production_budget": 53000000
+ },
+ {
+   "movie_id": 186,
+   "us_gross_income": 30500000,
+   "worldwide_gross_income": 30500000,
+   "production_budget": 1650000
+ },
+ {
+   "movie_id": 188,
+   "us_gross_income": 36000000,
+   "worldwide_gross_income": 36000000,
+   "production_budget": 5000000
+ },
+ {
+   "movie_id": 191,
+   "us_gross_income": 9600000,
+   "worldwide_gross_income": 9600000,
+   "production_budget": 910000
+ },
+ {
+   "movie_id": 201,
+   "us_gross_income": 42000000,
+   "worldwide_gross_income": 42000000,
+   "production_budget": 6000000
+ },
+ {
+   "movie_id": 205,
+   "us_gross_income": 80000000,
+   "worldwide_gross_income": 80000000,
+   "production_budget": 13500000
+ },
+ {
+   "movie_id": 206,
+   "us_gross_income": 33300000,
+   "worldwide_gross_income": 33300000,
+   "production_budget": 3000000
+ },
+ {
+   "movie_id": 207,
+   "us_gross_income": 0,
+   "worldwide_gross_income": 0,
+   "production_budget": 340000
+ },
+ {
+   "movie_id": 213,
+   "us_gross_income": 17570324,
+   "worldwide_gross_income": 17570324,
+   "production_budget": 3000000
+ },
+ {
+   "movie_id": 216,
+   "us_gross_income": 9000000,
+   "worldwide_gross_income": 9000000,
+   "production_budget": 3900000
+ },
+ {
+   "movie_id": 219,
+   "us_gross_income": 12800000,
+   "worldwide_gross_income": 12800000,
+   "production_budget": 3500000
+ },
+ {
+   "movie_id": 221,
+   "us_gross_income": 18600000,
+   "worldwide_gross_income": 24600000,
+   "production_budget": 3000000
+ },
+ {
+   "movie_id": 222,
+   "us_gross_income": 7900000,
+   "worldwide_gross_income": 7900000,
+   "production_budget": 12000000
+ },
+ {
+   "movie_id": 223,
+   "us_gross_income": 10400000,
+   "worldwide_gross_income": 10400000,
+   "production_budget": 3000000
+ },
+ {
+   "movie_id": 226,
+   "us_gross_income": 43700000,
+   "worldwide_gross_income": 43700000,
+   "production_budget": 6000000
+ },
+ {
+   "movie_id": 229,
+   "us_gross_income": 7600000,
+   "worldwide_gross_income": 7600000,
+   "production_budget": 2000000
+ },
+ {
+   "movie_id": 231,
+   "us_gross_income": 37495385,
+   "worldwide_gross_income": 69995385,
+   "production_budget": 15000000
+ },
+ {
+   "movie_id": 232,
+   "us_gross_income": 39100000,
+   "worldwide_gross_income": 50100000,
+   "production_budget": 10000000
+ },
+ {
+   "movie_id": 236,
+   "us_gross_income": 37600000,
+   "worldwide_gross_income": 37600000,
+   "production_budget": 1000000
+ },
+ {
+   "movie_id": 238,
+   "us_gross_income": 48000000,
+   "worldwide_gross_income": 62000000,
+   "production_budget": 36000000
+ },
+ {
+   "movie_id": 241,
+   "us_gross_income": 72000000,
+   "worldwide_gross_income": 72000000,
+   "production_budget": 17000000
+ },
+ {
+   "movie_id": 244,
+   "us_gross_income": 102300000,
+   "worldwide_gross_income": 102300000,
+   "production_budget": 6000000
+ },
+ {
+   "movie_id": 246,
+   "us_gross_income": 163214286,
+   "worldwide_gross_income": 286214286,
+   "production_budget": 8200000
+ },
+ {
+   "movie_id": 248,
+   "us_gross_income": 111721000,
+   "worldwide_gross_income": 111721000,
+   "production_budget": 11000000
+ },
+ {
+   "movie_id": 251,
+   "us_gross_income": 28350000,
+   "worldwide_gross_income": 28350000,
+   "production_budget": 3900000
+ },
+ {
+   "movie_id": 252,
+   "us_gross_income": 13395939,
+   "worldwide_gross_income": 35195939,
+   "production_budget": 40000000
+ },
+ {
+   "movie_id": 256,
+   "us_gross_income": 24379978,
+   "worldwide_gross_income": 24379978,
+   "production_budget": 2000000
+ },
+ {
+   "movie_id": 258,
+   "us_gross_income": 144156605,
+   "worldwide_gross_income": 294156605,
+   "production_budget": 71500000
+ },
+ {
+   "movie_id": 261,
+   "us_gross_income": 37402877,
+   "worldwide_gross_income": 37402877,
+   "production_budget": 10000000
+ },
+ {
+   "movie_id": 266,
+   "us_gross_income": 44785053,
+   "worldwide_gross_income": 44785053,
+   "production_budget": 3600000
+ },
+ {
+   "movie_id": 268,
+   "us_gross_income": 102308900,
+   "worldwide_gross_income": 102308900,
+   "production_budget": 6000000
+ },
+ {
+   "movie_id": 271,
+   "us_gross_income": 62500000,
+   "worldwide_gross_income": 62500000,
+   "production_budget": 12000000
+ },
+ {
+   "movie_id": 275,
+   "us_gross_income": 81600000,
+   "worldwide_gross_income": 81600000,
+   "production_budget": 3500000
+ },
+ {
+   "movie_id": 276,
+   "us_gross_income": 41158757,
+   "worldwide_gross_income": 41158757,
+   "production_budget": 2200000
+ },
+ {
+   "movie_id": 278,
+   "us_gross_income": 80500000,
+   "worldwide_gross_income": 80500000,
+   "production_budget": 9000000
+ },
+ {
+   "movie_id": 281,
+   "us_gross_income": 134966411,
+   "worldwide_gross_income": 268500000,
+   "production_budget": 7000000
+ },
+ {
+   "movie_id": 286,
+   "us_gross_income": 159616327,
+   "worldwide_gross_income": 159616327,
+   "production_budget": 5500000
+ },
+ {
+   "movie_id": 287,
+   "us_gross_income": 115000000,
+   "worldwide_gross_income": 140000000,
+   "production_budget": 777000
+ },
+ {
+   "movie_id": 289,
+   "us_gross_income": 204632868,
+   "worldwide_gross_income": 402500000,
+   "production_budget": 12000000
+ },
+ {
+   "movie_id": 293,
+   "us_gross_income": 4420000,
+   "worldwide_gross_income": 4420000,
+   "production_budget": 1600000
+ },
+ {
+   "movie_id": 296,
+   "us_gross_income": 108981275,
+   "worldwide_gross_income": 108981275,
+   "production_budget": 4400000
+ },
+ {
+   "movie_id": 297,
+   "us_gross_income": 20000000,
+   "worldwide_gross_income": 20000000,
+   "production_budget": 11000000
+ },
+ {
+   "movie_id": 299,
+   "us_gross_income": 260000000,
+   "worldwide_gross_income": 470700000,
+   "production_budget": 12000000
+ },
+ {
+   "movie_id": 301,
+   "us_gross_income": 117235147,
+   "worldwide_gross_income": 225000000,
+   "production_budget": 1000000
+ },
+ {
+   "movie_id": 305,
+   "us_gross_income": 21100000,
+   "worldwide_gross_income": 21100000,
+   "production_budget": 1000000
+ },
+ {
+   "movie_id": 306,
+   "us_gross_income": 38251425,
+   "worldwide_gross_income": 38251425,
+   "production_budget": 4000000
+ },
+ {
+   "movie_id": 311,
+   "us_gross_income": 50000000,
+   "worldwide_gross_income": 50000000,
+   "production_budget": 15000000
+ },
+ {
+   "movie_id": 312,
+   "us_gross_income": 32653000,
+   "worldwide_gross_income": 32653000,
+   "production_budget": 3000000
+ },
+ {
+   "movie_id": 318,
+   "us_gross_income": 78800000,
+   "worldwide_gross_income": 78800000,
+   "production_budget": 31500000
+ },
+ {
+   "movie_id": 321,
+   "us_gross_income": 52302978,
+   "worldwide_gross_income": 52302978,
+   "production_budget": 6000000
+ },
+ {
+   "movie_id": 323,
+   "us_gross_income": 26010864,
+   "worldwide_gross_income": 26010864,
+   "production_budget": 5000000
+ },
+ {
+   "movie_id": 324,
+   "us_gross_income": 23380203,
+   "worldwide_gross_income": 23380203,
+   "production_budget": 18000000
+ },
+ {
+   "movie_id": 326,
+   "us_gross_income": 57159946,
+   "worldwide_gross_income": 57159946,
+   "production_budget": 5500000
+ },
+ {
+   "movie_id": 329,
+   "us_gross_income": 245034358,
+   "worldwide_gross_income": 386800358,
+   "production_budget": 20000000
+ },
+ {
+   "movie_id": 330,
+   "us_gross_income": 50000000,
+   "worldwide_gross_income": 50000000,
+   "production_budget": 33500000
+ },
+ {
+   "movie_id": 331,
+   "us_gross_income": 52767889,
+   "worldwide_gross_income": 52767889,
+   "production_budget": 22000000
+ },
+ {
+   "movie_id": 334,
+   "us_gross_income": 177200000,
+   "worldwide_gross_income": 177200000,
+   "production_budget": 15000000
+ },
+ {
+   "movie_id": 335,
+   "us_gross_income": 53977250,
+   "worldwide_gross_income": 53977250,
+   "production_budget": 16000000
+ },
+ {
+   "movie_id": 339,
+   "us_gross_income": 21500000,
+   "worldwide_gross_income": 21500000,
+   "production_budget": 27000000
+ },
+ {
+   "movie_id": 341,
+   "us_gross_income": 51973029,
+   "worldwide_gross_income": 51973029,
+   "production_budget": 18000000
+ },
+ {
+   "movie_id": 346,
+   "us_gross_income": 79096868,
+   "worldwide_gross_income": 258210860,
+   "production_budget": 31000000
+ },
+ {
+   "movie_id": 347,
+   "us_gross_income": 93589701,
+   "worldwide_gross_income": 93589701,
+   "production_budget": 15000000
+ },
+ {
+   "movie_id": 350,
+   "us_gross_income": 65532576,
+   "worldwide_gross_income": 65532576,
+   "production_budget": 12000000
+ },
+ {
+   "movie_id": 351,
+   "us_gross_income": 137963328,
+   "worldwide_gross_income": 137963328,
+   "production_budget": 6000000
+ },
+ {
+   "movie_id": 356,
+   "us_gross_income": 43984000,
+   "worldwide_gross_income": 43984000,
+   "production_budget": 25000000
+ },
+ {
+   "movie_id": 358,
+   "us_gross_income": 156645693,
+   "worldwide_gross_income": 320100000,
+   "production_budget": 14000000
+ },
+ {
+   "movie_id": 361,
+   "us_gross_income": 172825435,
+   "worldwide_gross_income": 412800000,
+   "production_budget": 25000000
+ },
+ {
+   "movie_id": 363,
+   "us_gross_income": 34700000,
+   "worldwide_gross_income": 34700000,
+   "production_budget": 14000000
+ },
+ {
+   "movie_id": 366,
+   "us_gross_income": 106593296,
+   "worldwide_gross_income": 106593296,
+   "production_budget": 7500000
+ },
+ {
+   "movie_id": 367,
+   "us_gross_income": 70001698,
+   "worldwide_gross_income": 70001698,
+   "production_budget": 14000000
+ },
+ {
+   "movie_id": 371,
+   "us_gross_income": 184208842,
+   "worldwide_gross_income": 424200000,
+   "production_budget": 19000000
+ },
+ {
+   "movie_id": 373,
+   "us_gross_income": 217631306,
+   "worldwide_gross_income": 517600000,
+   "production_budget": 22000000
+ },
+ {
+   "movie_id": 375,
+   "us_gross_income": 46743809,
+   "worldwide_gross_income": 46743809,
+   "production_budget": 25000000
+ },
+ {
+   "movie_id": 376,
+   "us_gross_income": 130726716,
+   "worldwide_gross_income": 275726716,
+   "production_budget": 20000000
+ },
+ {
+   "movie_id": 377,
+   "us_gross_income": 171340294,
+   "worldwide_gross_income": 403476931,
+   "production_budget": 20000000
+ },
+ {
+   "movie_id": 379,
+   "us_gross_income": 70405498,
+   "worldwide_gross_income": 205400000,
+   "production_budget": 40000000
+ },
+ {
+   "movie_id": 380,
+   "us_gross_income": 74787599,
+   "worldwide_gross_income": 74787599,
+   "production_budget": 30000000
+ },
+ {
+   "movie_id": 382,
+   "us_gross_income": 62546695,
+   "worldwide_gross_income": 62546695,
+   "production_budget": 4000000
+ },
+ {
+   "movie_id": 383,
+   "us_gross_income": 141340178,
+   "worldwide_gross_income": 236500000,
+   "production_budget": 33000000
+ },
+ {
+   "movie_id": 386,
+   "us_gross_income": 96067179,
+   "worldwide_gross_income": 321200000,
+   "production_budget": 25000000
+ },
+ {
+   "movie_id": 387,
+   "us_gross_income": 183875760,
+   "worldwide_gross_income": 368900000,
+   "production_budget": 44000000
+ },
+ {
+   "movie_id": 390,
+   "us_gross_income": 22954968,
+   "worldwide_gross_income": 63954968,
+   "production_budget": 15000000
+ },
+ {
+   "movie_id": 391,
+   "us_gross_income": 329694499,
+   "worldwide_gross_income": 679400525,
+   "production_budget": 55000000
+ },
+ {
+   "movie_id": 392,
+   "us_gross_income": 52700832,
+   "worldwide_gross_income": 242895809,
+   "production_budget": 4500000
+ },
+ {
+   "movie_id": 393,
+   "us_gross_income": 107928762,
+   "worldwide_gross_income": 212928762,
+   "production_budget": 8000000
+ },
+ {
+   "movie_id": 395,
+   "us_gross_income": 28241469,
+   "worldwide_gross_income": 28241469,
+   "production_budget": 25000000
+ },
+ {
+   "movie_id": 396,
+   "us_gross_income": 75545647,
+   "worldwide_gross_income": 209000000,
+   "production_budget": 72000000
+ },
+ {
+   "movie_id": 397,
+   "us_gross_income": 172070496,
+   "worldwide_gross_income": 334100000,
+   "production_budget": 65000000
+ },
+ {
+   "movie_id": 398,
+   "us_gross_income": 63658910,
+   "worldwide_gross_income": 246100000,
+   "production_budget": 30000000
+ },
+ {
+   "movie_id": 400,
+   "us_gross_income": 42993774,
+   "worldwide_gross_income": 134993774,
+   "production_budget": 16500000
+ },
+ {
+   "movie_id": 401,
+   "us_gross_income": 78716374,
+   "worldwide_gross_income": 231716374,
+   "production_budget": 35000000
+ },
+ {
+   "movie_id": 402,
+   "us_gross_income": 24567751,
+   "worldwide_gross_income": 51204567,
+   "production_budget": 7000000
+ },
+ {
+   "movie_id": 403,
+   "us_gross_income": 153952592,
+   "worldwide_gross_income": 274000000,
+   "production_budget": 50000000
+ },
+ {
+   "movie_id": 404,
+   "us_gross_income": 13417292,
+   "worldwide_gross_income": 13417292,
+   "production_budget": 4500000
+ },
+ {
+   "movie_id": 405,
+   "us_gross_income": 35811509,
+   "worldwide_gross_income": 35811509,
+   "production_budget": 5500000
+ },
+ {
+   "movie_id": 406,
+   "us_gross_income": 600788188,
+   "worldwide_gross_income": 1842879955,
+   "production_budget": 200000000
+ },
+ {
+   "movie_id": 408,
+   "us_gross_income": 45950122,
+   "worldwide_gross_income": 257938649,
+   "production_budget": 3500000
+ },
+ {
+   "movie_id": 409,
+   "us_gross_income": 138433435,
+   "worldwide_gross_income": 225933435,
+   "production_budget": 10000000
+ },
+ {
+   "movie_id": 410,
+   "us_gross_income": 64604977,
+   "worldwide_gross_income": 110604977,
+   "production_budget": 35000000
+ },
+ {
+   "movie_id": 411,
+   "us_gross_income": 100317794,
+   "worldwide_gross_income": 279500000,
+   "production_budget": 26000000
+ },
+ {
+   "movie_id": 412,
+   "us_gross_income": 30082699,
+   "worldwide_gross_income": 82150642,
+   "production_budget": 25000000
+ },
+ {
+   "movie_id": 414,
+   "us_gross_income": 216335085,
+   "worldwide_gross_income": 481635085,
+   "production_budget": 65000000
+ },
+ {
+   "movie_id": 415,
+   "us_gross_income": 36400491,
+   "worldwide_gross_income": 36400491,
+   "production_budget": 52000000
+ },
+ {
+   "movie_id": 416,
+   "us_gross_income": 130058047,
+   "worldwide_gross_income": 356258047,
+   "production_budget": 15000000
+ },
+ {
+   "movie_id": 418,
+   "us_gross_income": 136801374,
+   "worldwide_gross_income": 286601374,
+   "production_budget": 60000000
+ },
+ {
+   "movie_id": 419,
+   "us_gross_income": 28965197,
+   "worldwide_gross_income": 60265197,
+   "production_budget": 68000000
+ },
+ {
+   "movie_id": 420,
+   "us_gross_income": 293506292,
+   "worldwide_gross_income": 672806292,
+   "production_budget": 40000000
+ },
+ {
+   "movie_id": 421,
+   "us_gross_income": 187683805,
+   "worldwide_gross_income": 457683805,
+   "production_budget": 103000000
+ },
+ {
+   "movie_id": 422,
+   "us_gross_income": 71309760,
+   "worldwide_gross_income": 152500343,
+   "production_budget": 25000000
+ },
+ {
+   "movie_id": 423,
+   "us_gross_income": 128067808,
+   "worldwide_gross_income": 213200000,
+   "production_budget": 15000000
+ },
+ {
+   "movie_id": 424,
+   "us_gross_income": 125548685,
+   "worldwide_gross_income": 258400000,
+   "production_budget": 50000000
+ },
+ {
+   "movie_id": 425,
+   "us_gross_income": 124107476,
+   "worldwide_gross_income": 208300000,
+   "production_budget": 48000000
+ },
+ {
+   "movie_id": 426,
+   "us_gross_income": 170708996,
+   "worldwide_gross_income": 316708996,
+   "production_budget": 78000000
+ },
+ {
+   "movie_id": 427,
+   "us_gross_income": 41300105,
+   "worldwide_gross_income": 41300105,
+   "production_budget": 18000000
+ },
+ {
+   "movie_id": 428,
+   "us_gross_income": 35930604,
+   "worldwide_gross_income": 43430604,
+   "production_budget": 1700000
+ },
+ {
+   "movie_id": 429,
+   "us_gross_income": 314776170,
+   "worldwide_gross_income": 868621686,
+   "production_budget": 109000000
+ },
+ {
+   "movie_id": 431,
+   "us_gross_income": 170687518,
+   "worldwide_gross_income": 307687518,
+   "production_budget": 30000000
+ },
+ {
+   "movie_id": 432,
+   "us_gross_income": 77730500,
+   "worldwide_gross_income": 190400000,
+   "production_budget": 97000000
+ },
+ {
+   "movie_id": 433,
+   "us_gross_income": 41675994,
+   "worldwide_gross_income": 108775994,
+   "production_budget": 25000000
+ },
+ {
+   "movie_id": 434,
+   "us_gross_income": 341784377,
+   "worldwide_gross_income": 926284377,
+   "production_budget": 94000000
+ },
+ {
+   "movie_id": 435,
+   "us_gross_income": 32519322,
+   "worldwide_gross_income": 120000000,
+   "production_budget": 35000000
+ },
+ {
+   "movie_id": 436,
+   "us_gross_income": 377027325,
+   "worldwide_gross_income": 1133027325,
+   "production_budget": 94000000
+ },
+ {
+   "movie_id": 437,
+   "us_gross_income": 44585453,
+   "worldwide_gross_income": 106454000,
+   "production_budget": 4000000
+ },
+ {
+   "movie_id": 438,
+   "us_gross_income": 93926386,
+   "worldwide_gross_income": 209486484,
+   "production_budget": 135000000
+ },
+ {
+   "movie_id": 439,
+   "us_gross_income": 90135191,
+   "worldwide_gross_income": 156835191,
+   "production_budget": 30000000
+ },
+ {
+   "movie_id": 440,
+   "us_gross_income": 120277854,
+   "worldwide_gross_income": 148336445,
+   "production_budget": 86000000
+ },
+ {
+   "movie_id": 441,
+   "us_gross_income": 100492203,
+   "worldwide_gross_income": 216763646,
+   "production_budget": 30000000
+ },
+ {
+   "movie_id": 442,
+   "us_gross_income": 102608827,
+   "worldwide_gross_income": 214608827,
+   "production_budget": 110000000
+ },
+ {
+   "movie_id": 443,
+   "us_gross_income": 51676606,
+   "worldwide_gross_income": 118676606,
+   "production_budget": 25000000
+ },
+ {
+   "movie_id": 444,
+   "us_gross_income": 75305995,
+   "worldwide_gross_income": 125305995,
+   "production_budget": 40000000
+ },
+ {
+   "movie_id": 445,
+   "us_gross_income": 71502303,
+   "worldwide_gross_income": 109705641,
+   "production_budget": 17000000
+ },
+ {
+   "movie_id": 446,
+   "us_gross_income": 3357324,
+   "worldwide_gross_income": 3357324,
+   "production_budget": 10000000
+ },
+ {
+   "movie_id": 447,
+   "us_gross_income": 83043761,
+   "worldwide_gross_income": 180343761,
+   "production_budget": 13900000
+ },
+ {
+   "movie_id": 448,
+   "us_gross_income": 28750530,
+   "worldwide_gross_income": 46309352,
+   "production_budget": 7000000
+ },
+ {
+   "movie_id": 450,
+   "us_gross_income": 47379090,
+   "worldwide_gross_income": 130279090,
+   "production_budget": 75000000
+ },
+ {
+   "movie_id": 451,
+   "us_gross_income": 133311000,
+   "worldwide_gross_income": 290539042,
+   "production_budget": 90000000
+ },
+ {
+   "movie_id": 452,
+   "us_gross_income": 34302837,
+   "worldwide_gross_income": 135302837,
+   "production_budget": 20000000
+ },
+ {
+   "movie_id": 453,
+   "us_gross_income": 13756082,
+   "worldwide_gross_income": 68756082,
+   "production_budget": 13000000
+ },
+ {
+   "movie_id": 454,
+   "us_gross_income": 59891098,
+   "worldwide_gross_income": 100523181,
+   "production_budget": 8000000
+ },
+ {
+   "movie_id": 455,
+   "us_gross_income": 56441711,
+   "worldwide_gross_income": 122840603,
+   "production_budget": 15000000
+ },
+ {
+   "movie_id": 456,
+   "us_gross_income": 74273505,
+   "worldwide_gross_income": 162103209,
+   "production_budget": 25000000
+ },
+ {
+   "movie_id": 457,
+   "us_gross_income": 50980159,
+   "worldwide_gross_income": 129425746,
+   "production_budget": 30000000
+ },
+ {
+   "movie_id": 458,
+   "us_gross_income": 143495265,
+   "worldwide_gross_income": 230327671,
+   "production_budget": 7000000
+ },
+ {
+   "movie_id": 459,
+   "us_gross_income": 49033882,
+   "worldwide_gross_income": 92987651,
+   "production_budget": 21500000
+ },
+ {
+   "movie_id": 461,
+   "us_gross_income": 141319928,
+   "worldwide_gross_income": 365257315,
+   "production_budget": 14000000
+ },
+ {
+   "movie_id": 462,
+   "us_gross_income": 127509326,
+   "worldwide_gross_income": 329809326,
+   "production_budget": 160000000
+ },
+ {
+   "movie_id": 463,
+   "us_gross_income": 18622031,
+   "worldwide_gross_income": 28144586,
+   "production_budget": 29000000
+ },
+ {
+   "movie_id": 464,
+   "us_gross_income": 31841299,
+   "worldwide_gross_income": 50164027,
+   "production_budget": 20000000
+ },
+ {
+   "movie_id": 465,
+   "us_gross_income": 34192652,
+   "worldwide_gross_income": 106107610,
+   "production_budget": 33000000
+ },
+ {
+   "movie_id": 466,
+   "us_gross_income": 14700000,
+   "worldwide_gross_income": 44468574,
+   "production_budget": 15000000
+ },
+ {
+   "movie_id": 467,
+   "us_gross_income": 760167650,
+   "worldwide_gross_income": 2767891499,
+   "production_budget": 237000000
+ },
+ {
+   "movie_id": 468,
+   "us_gross_income": 255959475,
+   "worldwide_gross_income": 301759475,
+   "production_budget": 35000000
+ },
+ {
+   "movie_id": 469,
+   "us_gross_income": 115646235,
+   "worldwide_gross_income": 206552113,
+   "production_budget": 30000000
+ },
+ {
+   "movie_id": 470,
+   "us_gross_income": 12574914,
+   "worldwide_gross_income": 14134502,
+   "production_budget": 7500000
+ },
+ {
+   "movie_id": 471,
+   "us_gross_income": 120831050,
+   "worldwide_gross_income": 320389438,
+   "production_budget": 70000000
+ },
+ {
+   "movie_id": 473,
+   "us_gross_income": 9228788,
+   "worldwide_gross_income": 30710147,
+   "production_budget": 7000000
+ },
+ {
+   "movie_id": 474,
+   "us_gross_income": 293004164,
+   "worldwide_gross_income": 731304609,
+   "production_budget": 175000000
+ },
+ {
+   "movie_id": 475,
+   "us_gross_income": 83823381,
+   "worldwide_gross_income": 166077420,
+   "production_budget": 30000000
+ },
+ {
+   "movie_id": 480,
+   "us_gross_income": 285630280,
+   "worldwide_gross_income": 753830280,
+   "production_budget": 160000000
+ },
+ {
+   "movie_id": 481,
+   "us_gross_income": 20553799,
+   "worldwide_gross_income": 20553799,
+   "production_budget": 4000000
+ },
+ {
+   "movie_id": 483,
+   "us_gross_income": 410640665,
+   "worldwide_gross_income": 1046340665,
+   "production_budget": 200000000
+ },
+ {
+   "movie_id": 485,
+   "us_gross_income": 5951693,
+   "worldwide_gross_income": 5951693,
+   "production_budget": 2000000
+ },
+ {
+   "movie_id": 561,
+   "us_gross_income": 50003303,
+   "worldwide_gross_income": 50003303,
+   "production_budget": 15000000
+ }
+]
