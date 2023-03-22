@@ -66,10 +66,16 @@ Our accuracy scores, confusion matrix, and metrics scores for each model can be 
 
 ## Technology Overview
 ### Data Cleaning and Analysis
-The input files were merged together, null data handled and eventually split into four dataframes to be loaded in PostgreSQL tables. The analysis and data cleaning were done using Python and sqlalchemy.
+The input files were merged together and duplicate data removed. Null data was handled based on the column values and numeric data types converted appropriately. In addition, unused columns were dropped. Eventually the dataset was split into four dataframes to be loaded in PostgreSQL tables. The analysis and data cleaning were done using Python and sqlalchemy.
 
 ### Database Storage
-PostgreSQL tables were used to store the data for the project. ([ERD](https://github.com/shef1109/Oscar-Winning-Predictions/blob/main/ERD/Oscar-Winning-Production_ERD.png))
+Four PostgreSQL tables were created to store the data for the project. The ([ERD](https://github.com/shef1109/Oscar-Winning-Predictions/blob/main/ERD/Oscar-Winning-Production_ERD.png)) shows the relationship between the tables.
+
+Tables created to store data :
+* [Movies](https://github.com/shef1109/Oscar-Winning-Predictions/blob/main/ERD/movies_table.png) - this has details pertaining to each movie - the year it was released, the genre, the producers and actors etc.
+* [Movie Ratings](https://github.com/shef1109/Oscar-Winning-Predictions/blob/main/ERD/movie_ratings.png) - this table stores the IMDB rating and the Rotten Tomato rating along with the user votes
+* [Movie Revenue](https://github.com/shef1109/Oscar-Winning-Predictions/blob/main/ERD/movie_revenue.png) - this table stores the gross income of each movie along with the production budget
+* [Oscar Details](https://github.com/shef1109/Oscar-Winning-Predictions/blob/main/ERD/oscar_details.png) - this table stores information about the year a movie was selected for the oscars and whether it won or not.
 
 ### Exploratory Analysis and Design :
 The puprose of exploratory analysis is to investigate the relationship between various movie attributes and their chances of winning an oscar award. By analysing the dataset, we aim to identify the patterns and insights that can help us make predictions  much better.
@@ -137,3 +143,4 @@ The Results of all the plots are stored in this location :
 
 ## Open Questions and Comments
 - Given additional time and resources, could we have used additonal data from recent winners (2020-2023) to help our prediction results?
+- There is a general trend for movies with higher ratings to win the Oscar. However, the data was insufficient to corroborate any one feature having significant impact over the outcome. 
