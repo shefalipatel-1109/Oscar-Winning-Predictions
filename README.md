@@ -72,7 +72,7 @@ The input files were merged together and duplicate data removed. Null data was h
 Four PostgreSQL tables were created to store the data for the project. The ([ERD](https://github.com/shef1109/Oscar-Winning-Predictions/blob/main/ERD/Oscar-Winning-Production_ERD.png)) shows the relationship between the tables.
 
 Tables created to store data :
-* [Movies](https://github.com/shef1109/Oscar-Winning-Predictions/blob/main/ERD/movies_table.png) - this has details pertaining to each movie - the year it was released, the genre, the producers and actors etc.
+* [Movies](https://github.com/shef1109/Oscar-Winning-Predictions/blob/main/ERD/movies_table.png) - this table has details pertaining to each movie - the year it was released, the genre, the producers and actors etc.
 * [Movie Ratings](https://github.com/shef1109/Oscar-Winning-Predictions/blob/main/ERD/movie_ratings.png) - this table stores the IMDB rating and the Rotten Tomato rating along with the user votes
 * [Movie Revenue](https://github.com/shef1109/Oscar-Winning-Predictions/blob/main/ERD/movie_revenue.png) - this table stores the gross income of each movie along with the production budget
 * [Oscar Details](https://github.com/shef1109/Oscar-Winning-Predictions/blob/main/ERD/oscar_details.png) - this table stores information about the year a movie was selected for the oscars and whether it won or not.
