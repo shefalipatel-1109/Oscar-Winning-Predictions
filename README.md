@@ -58,7 +58,9 @@ Will it be Top Gun: Maverick, Elvis, or the long-awaited sequel Avatar: The Way 
 
 
 ## Machine Learning Model 
-The machine learning model will be created using the SciKit-Learn to run a Logistic Regression and will address class imbalance using random over/under sampling, SMOTEEN, or Clustered Random Undersampling modules. 
+For this project, we used supervised machine learning to help us understand the relationship between one specific feature (Award Winnner) with multiple features (such as movie length, genre, and average rating). In this case, we wanted to learn about specific features that most influence award winners so we can better predict future outcomes. The machine learning model used the SciKit-Learn to run a Logistic Regression and addressed the class imbalance using random over/under sampling, SMOTEEN, or Clustered Random Undersampling modules. Additionally, using artificial neural networks we were able to recognize patterns and features in input data to provide a clear quantitative output that led us to better prediction results. 
+
+Our accuracy scores, confusion matrix, and metrics scores for each model can be viewed here: ([MLM](https://github.com/shef1109/Oscar-Winning-Predictions/tree/main/MLM))
 
 
 
@@ -120,6 +122,7 @@ The Results of all the plots are stored in this location :
 - SMOTEEN
 - Clustered Random Undersampling
 - Easy Ensemble AdaBoost Classifer
+- Artificial Neural Network
 
 ### Dashboard
 - Tableau
@@ -133,3 +136,4 @@ The Results of all the plots are stored in this location :
 
 
 ## Open Questions and Comments
+- Given additional time and resources, could we have used additonal data from recent winners (2020-2023) to help our prediction results?
