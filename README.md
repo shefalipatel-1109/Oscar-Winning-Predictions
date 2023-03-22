@@ -47,7 +47,7 @@ Will it be Top Gun: Maverick, Elvis, or the long-awaited sequel Avatar: The Way 
 ## List of Questions to be Analyzed 
 
 - What features have more significant impact on predicting Oscar winners?
-- Can we predict which movie will an Oscar award based on its genre, rating, director, and budget and how accurately can we make those predictions?
+- Can we predict which movie will win an Oscar award based on its genre, rating, director, and budget and how accurately can we make those predictions?
 - Can we improve the prediction accuracy by considering the average ratings or box office returns of the movie?
 - How much of an impact does a movie's length have on its chances of winning an Oscar award?
 - How do the features of Oscar winning film differ from those of other highly rated films that did not win the Oscar?
@@ -72,7 +72,7 @@ The input files were merged together, null data handled and eventually split int
 PostgreSQL tables were used to store the data for the project. ([ERD](https://github.com/shef1109/Oscar-Winning-Predictions/blob/main/ERD/Oscar-Winning-Production_ERD.png))
 
 ### Exploratory Analysis and Design :
-The puprose of exploratory analysis is to investigate the relationship between various movie attributes and their chances of winning an oscar award. By analysis the dataset containing information of movies derived from the dataset including their genres, ratings, budgets and box office returns , we aim to identify the patterns and insights that can help us make predictions  much better.
+The puprose of exploratory analysis is to investigate the relationship between various movie attributes and their chances of winning an oscar award. By analysing the dataset, we aim to identify the patterns and insights that can help us make predictions  much better.
 
 ### Data Quality Check
  Before proceeding with EDA, we need to perform a data quality check to ensure the integrity of the data. The following steps taken:
@@ -81,7 +81,7 @@ The puprose of exploratory analysis is to investigate the relationship between v
   - Check of outliers
 
 ### EDA Questions and Results
- After the data quality check , we need to start with exploring the data by asking several questions and use plots or graphs to answer questions related to the dataset before actually training through Machine Learning
+ After the data quality check , we need to start exploring the data by asking several questions and use plots or graphs to answer questions related to the dataset before actually training through Machine Learning
 
  Some Questions for EDA part of the analysis and their visualizations:
  - What is the most popular movie 'Genre' ? Are certain genres more likely to receive Oscar nominations or wins than others?<br>
