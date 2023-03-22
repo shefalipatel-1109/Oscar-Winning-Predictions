@@ -2,7 +2,7 @@
 body{ 
     color:#0f0e0f;
     background-color:#f7f7f7;
-    background-image: url(img/background.png);
+    background-image: url(img/background.jpg);
 
 }
 .container{
@@ -103,7 +103,7 @@ body{
     margin-left: 15px;
   }
 .well{
-    background-color: rgb(51, 134, 201);
+    background-color: rgb(9, 9, 9);
 }
 .panel-title{
     font-style: initial;
