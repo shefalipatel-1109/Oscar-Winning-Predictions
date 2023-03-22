@@ -69,7 +69,7 @@ Our accuracy scores, confusion matrix, and metrics scores for each model can be 
 The input files were merged together and duplicate data removed. Null data was handled based on the column values and numeric data types converted appropriately. In addition, unused columns were dropped. Eventually the dataset was split into four dataframes to be loaded in PostgreSQL tables. The analysis and data cleaning were done using Python and sqlalchemy.
 
 ### Database Storage
-Four PostgreSQL tables were created to store the data for the project. The ([ERD](https://github.com/shef1109/Oscar-Winning-Predictions/blob/main/ERD/Oscar-Winning-Production_ERD.png)) shows the relationship between the tables.
+Four PostgreSQL tables were created to store the data for the project. The [ERD](https://github.com/shef1109/Oscar-Winning-Predictions/blob/main/ERD/Oscar-Winning-Production_ERD.png) shows the relationship between the tables.
 
 Tables created to store data :
 * [Movies](https://github.com/shef1109/Oscar-Winning-Predictions/blob/main/ERD/movies_table.png) - this table has details pertaining to each movie - the year it was released, the genre, the producers and actors etc.
