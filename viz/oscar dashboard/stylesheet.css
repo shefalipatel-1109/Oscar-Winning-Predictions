@@ -2,6 +2,8 @@
 body{ 
     color:#0f0e0f;
     background-color:#f7f7f7;
+    background-image: url(img/background.png);
+
 }
 .container{
     text-align: center;
@@ -90,7 +92,16 @@ body{
   } /* Green */
   
 
-  
+  .sub-menu {
+    display: none;
+  }
+  .menu-bar ul li:hover .sub-menu
+  {
+    display: block;
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 15px;
+  }
 .well{
     background-color: rgb(51, 134, 201);
 }
