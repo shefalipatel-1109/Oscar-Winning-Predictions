@@ -142,5 +142,12 @@ The Results of all the plots are stored in this location :
 
 
 ## Open Questions and Comments
-- Given additional time and resources, could we have used additonal data from recent winners (2020-2023) to help our prediction results?
+### Overall Results
 - There is a general trend for movies with higher ratings to win the Oscar. However, the data was insufficient to corroborate any one feature having significant impact over the outcome. 
+- Due to missing/insufficient data, we were not able to answer all of the questions for this project. 
+- Given additional time and resources, could we have used additonal data from recent winners (2020-2023) to help our prediction results?
+
+### What would the team have done differently? 
+- Given more time the team could find alternate sources for more current data. IMDB or Oscars websites do not allow webscraping without a paid subscription.
+- Given more time, the team could modify the dasboard to pull real time data from the tables/csv rather than the static screenshot.
+
