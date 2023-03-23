@@ -133,7 +133,7 @@ The Results of all the plots are stored in this location :
 ### Dashboard
 - Tableau
 - Working on Visualization with Tableau.
-- Dashboard Link: [Visualization](https://shef1109.github.io/Oscar-Winning-Predictions/viz/oscar%20dashboard/)
+- Dashboard Link: [Final Project Presentation](https://shef1109.github.io/Oscar-Winning-Predictions/viz/oscar%20dashboard/)
 
 ## Communication Protocols
 - Group will communicate through a group Slack channel and WhatsApp to ask questions and share project updates on a regular basis.
